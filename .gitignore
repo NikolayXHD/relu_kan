@@ -1,0 +1,13 @@
+/.mypy_cache/
+/.pytest_cache/
+/.ruff_cache/
+/.virtual_documents/
+/config/credentials.yaml
+/.env
+/.lsp_symlink
+.ipynb_checkpoints/
+__pycache__/
+_dashboard/
+catboost_info/
+*.large/
+*.large.*
